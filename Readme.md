@@ -1,7 +1,3 @@
-# Introduction
-
-The code respository for MICCAI submission "Integrating 3D Structures and Heterogeneous Information Network for Protein-Phenotype Prediction".
-
 # Requirements
 
 - Python 
@@ -29,6 +25,7 @@ After ajusting the paths in main.py, run:
 ```
 python main.py
 ```
+
 
 
 
